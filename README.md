@@ -62,7 +62,7 @@ The simulation parameters, including the number of interferograms and disturbanc
 
 If you use this code, please cite:
 
-> Shouyu Wang, Javier Vargas, Chen Li, Wei Yu, and Aihui Sun, “Voting principal components analysis (vPCA): A demodulation algorithm designed for unstable phase-shifting interferometry,” Submitted.
+> Shouyu Wang, Javier Vargas, Chen Li, Wei Yu, and Aihui Sun, “Voting principal components analysis (vPCA): A demodulation algorithm designed for unstable phase-shifting interferometry,” *Optics Communications* **624** (2027), 133975. [doi:10.1016/j.optcom.2026.133975](https://doi.org/10.1016/j.optcom.2026.133975).
 
 ---
 
